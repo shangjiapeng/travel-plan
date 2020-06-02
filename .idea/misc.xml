@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../travel-plan-service/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-service/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-web/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-basic/travel-plan-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-basic/travel-plan-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-api/travel-plan-material/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-service/material-service/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-basic/mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-basic/entity/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-basic/common/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-api/material-api/pom.xml" />
+        <option value="$PROJECT_DIR$/travel-plan-web/erp-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

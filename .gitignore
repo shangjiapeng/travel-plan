@@ -1,0 +1,5 @@
+# Project exclude paths
+/travel-plan-api/material-api/target/
+/travel-plan-basic/common/target/
+/travel-plan-basic/entity/target/
+/travel-plan-basic/mapper/target/

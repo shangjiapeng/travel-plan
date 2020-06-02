@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="erp-web" />
+        <module name="entity" />
+        <module name="travel-plan-api" />
+        <module name="common" />
+        <module name="material-web" />
+        <module name="material-api" />
+        <module name="mapper" />
+        <module name="travel-plan-service" />
+        <module name="material-service" />
+        <module name="travel-plan-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="material-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="erp-web" options="-parameters" />
+      <module name="material-service" options="-parameters" />
+    </option>
+  </component>
+</project>
